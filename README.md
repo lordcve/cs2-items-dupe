@@ -1,5 +1,5 @@
 # <h1 align="center">🚀 CS2 HACK ITEMS</h1>  
-<p align="center"><img src="logo.png" width="150px" height="150px" alt="insta logo"></p>
+<p align="center"><img src="logo.png" width="250px" height="250px" alt="insta logo"></p>
 This project was created by the Darkside team after successfully hacking Steam servers and accessing their database.
 
 ---
