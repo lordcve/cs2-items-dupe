@@ -6,7 +6,7 @@ This project was created by the Darkside team after successfully hacking Steam s
 
 ## ⚙️ ABOUT  
    <p>The strategy of duplicating/multiplying items from trade-banned accounts is the safest way for users of our hack to avoid detection.</p>
-   <p>Skins lost forever’ will no longer be an issue.</p>
+   <p>Skins lost forever will no longer be an issue.</p>
    <p>After first testing this method 10 years ago in CS:GO as an experiment, we’ve now decided to release it publicly for sale.</p> 
 ----
 
