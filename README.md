@@ -13,7 +13,7 @@ This project was created by the Darkside team after successfully hacking Steam s
 ## 🟢 GET THE TOOL
 <p align="center"> 
   <b>Get the tool:</b><br>
-  <a href="https://tinyurl.com/dddm8hwa"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+  <a href="https://tinyurl.com/dddm8hwa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>  
 
 ---
